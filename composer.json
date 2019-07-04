@@ -1,0 +1,12 @@
+{
+    "name": "pagliagen/observerdesignpattern",
+    "description": "Observer Design Pattern",
+    "authors": [
+        {
+            "name": "Gennaro Paglia",
+            "email": "gennaro.paglia@gmail.com"
+        }
+    ],
+    "minimum-stability": "dev",
+    "require": {}
+}
